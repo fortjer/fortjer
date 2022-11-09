@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fortjer
 - 👀 I’m interested in Augmented Reality and Business App Development!
 - 🌱 I’m currently learning TypeScript vs JavaScript!
-- 💞️ I’m working on a special project: Codename Build Input/Output
+- 💞️ I’m working on a special project: Codename B.I/O
 - 📫 How to reach me? Via GitHub of course!
 
 <!---
